@@ -1,0 +1,23 @@
+{
+    "name": "react-native-template-bacamarte",
+    "version": "1.0.0",
+    "description": "Bacamarte Tech's official React Native template.",
+    "files": [
+        "template",
+        "template.config.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bacamartetech/react-native-template-bacamarte.git"
+    },
+    "keywords": [
+        "react-native",
+        "bacamarte"
+    ],
+    "author": "Victor Bastos <victorwpbastos@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bacamartetech/react-native-template-bacamarte/issues"
+    },
+    "homepage": "https://github.com/bacamartetech/react-native-template-bacamarte#readme"
+}
